@@ -1,2 +1,4 @@
 File 1, Test 1
 27 July
+
+This is a commit from Github to the local repo
